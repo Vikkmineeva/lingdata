@@ -1,0 +1,814 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="255">[tag=&quot;V.*&quot; &amp; lemma=&quot;учить&quot;] [tag=&quot;Nc.*a.*&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="word">
+    <item>
+      <str attribute="word">учить язык</str>
+      <freq>32</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить уроки</str>
+      <freq>18</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить теорию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить языки</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить стихи</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили язык</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить урок</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить правила</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить историю</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите правила</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит уроки</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим язык</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили стихи</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат язык</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите историю</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить физику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить счет</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить слова</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите языки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите кроху</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит христианство</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили таблицу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили географию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учи уроки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат историю</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат алфавит</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учить язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите языки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учу язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учу сочинение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учу дни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учишь язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить хореографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить таблицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить собаку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить ребятишек</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить предмет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить право</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить потомство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить позы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить параграфы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить молодых</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить мозг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить материал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить людей</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить логику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить кроху</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить иероглифы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить иврит</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить звуки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить законодательство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить ежа</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить дочку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить буквы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить алфавит</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить автоматику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учить Всезнайку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите физику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите стишки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите собаку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите песни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите новое</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите литературу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учите историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит урок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит тётю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит тело</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит стишок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит стихи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит слово</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит пса</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит партию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит параграф</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит народ</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит малыша</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит магию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит класс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит законы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит дефиле</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит Евангелие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учит Гоулд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим танцы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим ребятишек</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим поиск</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим песни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим обучение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим маму</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим курсы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим игры-хороводы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учим азы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили учет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили танцы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили стишки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили позы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили мозг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили литературу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили латынь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учили азбуку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учила песни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учила историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учила группу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил цветочницу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил физику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил урок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил текст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил таблицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил страну</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил стихи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил пациентку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил малышку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил иероглифы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил дочку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил внука</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил букварь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил аккорды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учил Москву</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учи языки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учи язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учи урок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учи лище</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат фотографии</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат философию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат стишок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат стихи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат средства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат сотни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат руки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат песенки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат мандарин</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат гимн</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат бескорыстию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат азбуку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">учат Сертификат</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учить школьника</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите стишки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите стихи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите материал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учите биологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим таблицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим стишки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим стихи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим порядок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учим кроху</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учили язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учила песни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Учи историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
