@@ -1,0 +1,5014 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<export>
+<header>
+  <corpus>AranRusj_x</corpus>
+  <subcorpus>-</subcorpus>
+  <query>
+    <subquery operation="Query" size="1723">[tag=&quot;V.*&quot; &amp; lemma=&quot;изучать&quot;] [tag=&quot;Nc.*a.*&quot;]</subquery>
+  </query>
+</header>
+<frequency>
+  <items blockname="word">
+    <item>
+      <str attribute="word">изучать язык</str>
+      <freq>25</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать историю</str>
+      <freq>22</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают возможность</str>
+      <freq>13</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать информацию</str>
+      <freq>13</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать языки</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рынок</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать мир</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает возможность</str>
+      <freq>11</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает закономерности</str>
+      <freq>10</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать материалы</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать литературу</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал историю</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый период</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый материал</str>
+      <freq>9</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают особенности</str>
+      <freq>8</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тему</str>
+      <freq>8</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать вопрос</str>
+      <freq>8</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать астрологию</str>
+      <freq>8</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать законы</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали историю</str>
+      <freq>7</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают рынок</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать свойства</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать материал</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал философию</str>
+      <freq>6</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая язык</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий свойства</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают материалы</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают историю</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать экономику</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать химию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать философию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать теорию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать систему</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать культуру</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать инструкцию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать документы</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать влияние</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали воздействие</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте информацию</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает строение</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый объект</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая историю</str>
+      <freq>5</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают язык</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают состояние</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают результаты</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают материал</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают информацию</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают вопрос</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают влияние</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают ассортимент</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю сайт</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать условия</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать способы</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать состав</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать предметы</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать предложения</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать правила</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать особенности</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать город</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали действие</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали влияние</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал языки</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал экономику</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал медицину</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал влияние</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте состав</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает язык</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая проблему</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая данные</str>
+      <freq>4</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая предложения</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая материалы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая историю</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая информацию</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих язык</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий историю</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают ситуацию</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю ситуацию</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать требования</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать слово</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ситуацию</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать проблему</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать природу</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать предмет</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать окрестности</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать местность</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать математику</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать книгу</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать жизнь</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать дхарму</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Тору</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали язык</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали особенности</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала тему</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала процесс</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала вопрос</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал язык</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал систему</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал вопросы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете материалы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает структуру</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает рынок</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает работу</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает проблему</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает потребности</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает поведение</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает особенности</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает мир</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает историю</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает законы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает вопросы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает влияние</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый предмет</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем слово</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем ситуацию</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем рынок</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем особенности</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая развитие</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая литературу</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая вопрос</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучаемый материал</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучаемые дозы</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучаем микромир</str>
+      <freq>3</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая следы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая свойства</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая результаты</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая процесс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая предметы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая потребности</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая поверхность</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая поведение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая наследие</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая местность</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая комментарии</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая вопросы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая архитектуру</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих языки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих курс</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих культуру</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий строение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий взгляд</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие поведение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают философию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают специфику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают состав</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают содержимое</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают прошлое</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают предложения</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают потребности</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают охрану</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают обстановку</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают нюансы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают математику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают маршруты</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают качество</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают знаки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают записи</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают законодательство</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают жизнь</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают грунт</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают воздействие</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю тему</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю работу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю информацию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю астрологию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать юриспруденцию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать физику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать технику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать танец</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать специфику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать специальность</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать состояние</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сознание</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать содержимое</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сайт</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать работу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать программу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать планету</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать пару</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать микромир</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать меню</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать медицину</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать контент</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать картину</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ислам</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать имидж</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать документацию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать данные</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать грунт</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать горы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать вопросы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать биологию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ассортимент</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать алфавит</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Библию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали языки</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали требования</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали состояние</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали свойства</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали работу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали методику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали материалы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали литературу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали достопримечательности</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали географию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали вопрос</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали аудиторию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала проблему</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала историю</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала информацию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал физику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал труды</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал статистику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал состояние</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал природу</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал право</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал отношение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал нейробиологию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал материалы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал возможность</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал биографию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал архитектуру</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте предложения</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете инструкцию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает технику</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает состояние</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает размещение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает происхождение</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает предмет</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает правила</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает материалы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает зависимость</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает жизнь</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает вопрос</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает варианты</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые темы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые предметы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемого произведения</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем теорию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем текст</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем правила</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем потребности</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем пожелания</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем возможность</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем ассортимент</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая примеры</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая правила</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая материалы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучал медицину</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучайте язык</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучайте туры</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучайте психологию</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучайте особенности</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучает конъюнктуру</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучаем документы</str>
+      <freq>2</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая языки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая этикетку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая экосистему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая характер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая фотографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая философию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая учебники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая условия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая улицы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая угрозы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая трек</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая тонкости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая табак</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая состав</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая содержание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая снасти</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая самоучитель</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая решение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая резюме</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая расценки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая психологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая продукцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая проблему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая примеры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая предпочтения</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая послание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая отчет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая останки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая особенности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая окрестности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая молитвы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая мир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая механику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая меню</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая массу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая литургию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая литературу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая культуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая каталоги</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая каталог</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая карту</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая интересы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая инструкцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая изотопы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая законы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая грамматику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая газету</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая внутренности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая ассортимент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая УЗ-сканеры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая Европу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучая POS-материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих цвет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих теорию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих творчество</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих строение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих социологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих ситуацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих сайты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих роль</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих рекламу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих радиотехнику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих природу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих обществознание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих наследие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих макроэкономику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих латынь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих край</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих дисциплину</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих геологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих влияние</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающих балет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающим языки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающим особенности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающим науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий фотографии</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий развитие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий особенности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий музыку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий моду</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий запросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий журналистику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий воздействие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий биографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий астрологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающий анатомию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие управление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие тонкости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие современность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие психологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие прошлое</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие проблему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие право</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие гигиену</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие генеалогию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие вопросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие вопрос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие взгляды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающие атмосферу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей цивилизацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей теорию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей свойства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающей движение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающего парение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающего качество</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучающего загрязнение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают эффективность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают электронику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают экспонаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают экосистему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают чертежи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают характеристики</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают филологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают физику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают факты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают труды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают требования</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают товар</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают технику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают тексты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают текст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают счет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают судьбу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают степень</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают статистику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают среду</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают сотни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают систему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают силу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают сигналы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают роль</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают репутацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают рейтинг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают резюме</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают район</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают раздражители</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают работу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают процесс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают происхождение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают проекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают программу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают проблему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают природу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают принципы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают предметы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают предложение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают потолок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают популяцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают пожелания</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают подземелье</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают поверхность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают повадки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают планету</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают перспективы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают оптику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают опасность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают обществознание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают новости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают музыку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают мотивы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают мир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают метки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают макроструктуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают культуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают космос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают контракты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают конструкцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают композицию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают катехизис</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают каталоги</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают интерфейс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают интернет-пространство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают интерес</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают инструкцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают зачатие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают живопись</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают дхарму</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают документы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают дискуссию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают действие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают грамматику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают воспроизводство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают возможности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают воду</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают виды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают варианты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают букашек</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают азы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучают web-сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю энергетику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю экономику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю физику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю теорию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю программу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю обстановку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю материал</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю литературу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю компьютер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю капот</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю ислам</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю вопросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю вопрос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю возможность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю асфальт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю Библию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаю email-маркетинг</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать эффект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать этнографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать шедевры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать чай</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ценообразование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать цвет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать хинди</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать характеристику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать характеристики</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать характер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать фотографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать факты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать уродства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тонкости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать технологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать теологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тенденцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать темы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать телефон</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тексты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тактику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать тайм-менеджмент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать таблицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сыроделие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сферу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать структуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать строение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать статистику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сокровища</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сны</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать снимки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать скульптуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать скелет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сервер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать секреты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сборку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать сайты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рычаги</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рекомендации</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рекламу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рейтинги</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рацион</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать рассказы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать раздел</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать развитие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать пункты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать психологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать психику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать процесс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать просторы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать проект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать продукцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать применение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать приемы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать премудрости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать предысторию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать предложение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать практики</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать поэзию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать потребности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать портрет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать пользу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать поведение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать плюсы-минусы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать платформу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать пластику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать планы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать плагины-коды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать письма</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать памятники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать отпечатки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать отношение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать отклики</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ответственность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать онлайн-курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать одежду</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать объект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать носки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать новое</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать новинку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать написание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать набор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать мёд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать морфологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать море</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать мифы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать механику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать методику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать медитацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать машину</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать матч</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать манеру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать магию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать люминесценцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ложку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать листочки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать купюру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать кровоток</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать космос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать корни</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать конфликтологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать контракт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать конкурентов</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать компьютеры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать клетку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать классику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать кинезитерапию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать карты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать карточки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать искусство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать интересы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать инструменты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать инструкции</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать имя</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать иконы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать изменчивость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать иероглифы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать запрет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать закономерности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать законодательство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать живопись</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать душу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать достопримечательности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать договоры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать договор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать детали</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать десятки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать действие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать графологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать график</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать грамматику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать готику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать гороскопы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать геологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать географию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать возможность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать возможности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать воздействие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать варианты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать будущее</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать бизнес-систему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать аппаратуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать азы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Систему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Рейки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Откровение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать Книгу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать ВУЗы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучать HTML-код</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали эффективность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали экспозицию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали чертежи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали хранение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали флору</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали финансы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали физику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали уставы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали традицию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали тонкости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали теологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали строение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали список</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали состав</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали сопротивление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали сны</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали слово</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали скорость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали рынки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали роскошь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали распространение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали радионавигацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали психологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали прыжки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали продукты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали проблему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали приязнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали природу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали предметы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали потребление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали последствия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали поведение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали период</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали организацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали окрестности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали мотор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали мир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали микробиомы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали местность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали меню</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали медицину</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали маршрут</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали кучу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали курсы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали кровоснабжение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали контраст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали карточки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали источники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали инновации</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали импровизацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали житие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали данные</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали группу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали геометрию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали букву</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали биологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали ассоциацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали арифметику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали Россию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучали Египет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала языки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала химию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала типологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала технику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала тайм</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала стадионы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала результаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала психологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала примеры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала первоисточник</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала ножницы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала музыку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала менеджмент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала медицину</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала культуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала искусство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала интернет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала драму</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала демо-версию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала время</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала вопросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала возможность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала влияние</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала арт-терапию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучала Библию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал юриспруденцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал эффекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал эпидемиологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал шелкопряда</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал фортификацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал флору</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал фигуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал устойчивость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал тысячу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал тонкости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал технику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал темы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал способы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал список</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал социологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал состав</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал снимки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал свидетельства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал риторику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал рисование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал работу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал процесс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал пространство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал производство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал проект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал проблему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал премудрости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал памятники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал организацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал окрестности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал натуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал назначение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал механику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал маршруты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал магию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал лицо</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал литературу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал лейшманиоз</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал ладонь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал курсы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал курс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал культуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал кровь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал криптографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал конспект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал комплекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал коммерцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал книгу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал источники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал интерфейс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал игру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал законы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал жизнеописание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал добычу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал геологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал гармонию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал время</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал воздействие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал взаимосвязь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал брошюру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал биофизику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал аудиторию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал астрономию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал антропологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал ангиогенез</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Тору</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Киев</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Интернет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Ботанику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучал Библию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте этикетку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте характер</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте упаковку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте таблицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте статистику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте сертификаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте свойства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте результаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте путеводители</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте программку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте правила</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте мир</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте курсы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте календарь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте запросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте договор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте детали</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте взгляд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучайте ассортимент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучай фотографию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучай сайты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучай процесс</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучай особенности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаешь текст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаешь список</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаешь материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаешь драматургию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаешь город</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете язык</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете этикетку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете тему</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете слово</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете законы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаете возможность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает эффекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает эволюцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает частоту</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает цвет</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает царство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает функции</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает фотографии</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает форму</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает формирование</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает управление</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает труды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает течение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает танцы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает судьбу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает страницу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает столицу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает среду</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает способы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает список</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает социологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает состав</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает содержание</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает сновидения</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает снимки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает свойства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает свидетельства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает результаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает раствор</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает раздел</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает развитие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает психику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает продукты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает природу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает претензии</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает предложения</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает практику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает правильность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает потолок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает повадки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает планировку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает план</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает периодику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает отчёты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает организацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает объекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает общество</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает наследие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает менеджмент</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает материю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает маршрут</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает купоны</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает культуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает конфигурацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает колорит</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает источники</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает ислам</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает информацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает землю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает заявку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает запах</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает законодательство</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает желания</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает документы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает документацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает диагностику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает джунгли</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает данные</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает грамматику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает город</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает войну</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает вещи</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает библию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает атмосферу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает архитектуру</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучает Вселенную</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый рынок</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый вопрос</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемый бренд</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые произведения</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые курсы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые звуки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаемые вопросы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем энциклопедию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем чтение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем характеристики</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем формулу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем условия</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем технологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем технику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем сферу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем специфику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем сайты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем работу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем пушку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем производительность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем проекты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем проект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем последовательность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем открытки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем основу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем объект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем новости</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем науку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем материалы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем маскировку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем информацию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем инструкцию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем законы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем задачу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем договоры</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем договорПоскольку</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем деятельность</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучаем геометрию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавших роль</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавших окрестности</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавших математику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавших жизнь</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавших Сунну</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшим экономику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшим флору</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшим историю</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшим воздействие</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшая говядину</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">изучавшая биологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая ящериц</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая эффект</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая этимологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая хирургию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая фотоальбомы</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая фауну</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая уроки</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая труды</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая теорию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая теологию</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая текст</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая сферу</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая строение</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая стоимость</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая специфику</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая состояние</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая свойства</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая салаты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая сайты</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+    <item>
+      <str attribute="word">Изучая сайт</str>
+      <freq>1</freq>
+      <example></example>
+    </item>
+  </items>
+</frequency>
+</export>
